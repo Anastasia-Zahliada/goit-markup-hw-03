@@ -69,7 +69,6 @@ a {
 .nav {
   display: flex;
   align-items: center;
-  gap: 76px;
 }
 
 .logo {
@@ -79,6 +78,7 @@ a {
   text-transform: uppercase;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 .dark-accent {
   color: #2e2f42;
@@ -102,6 +102,7 @@ a {
 
 .contacts {
   font-style: normal;
+  margin-left: auto;
 }
 
 .contacts-list {
